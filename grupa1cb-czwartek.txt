@@ -13,6 +13,7 @@ Konrad Linkowski
 Julia May
 Rafał Mazurkiewicz
 Eryk Miszczuk
+Jedrzej Panczak
 Jan Przybylski
 Lukasz Tatrocki
 Daniel Wilczewski
