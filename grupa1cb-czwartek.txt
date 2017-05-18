@@ -9,3 +9,4 @@ Julia May
 Eryk Miszczuk
 Jan Przybylski
 Lukasz Tatrocki
+Daniel Wilczewski
