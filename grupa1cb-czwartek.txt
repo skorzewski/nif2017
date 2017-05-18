@@ -15,6 +15,7 @@ Julia May
 Rafał Mazurkiewicz
 Eryk Miszczuk
 Jedrzej Panczak
+Marek Pikosz
 Jan Przybylski
 Lukasz Tatrocki
 Daniel Wilczewski
