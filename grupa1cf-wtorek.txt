@@ -2,7 +2,19 @@ D NIF LI1 1CF (wtorek)
 
 Lista studentów:
 
+Krzysztof Czerwiński
+Rafał Dąbkowski
+Mateusz Górzyński
+Filip Kowalski
+Kacper Kruczek
+Jakub Kwiatkowski
+Adrian Lewandowski
+Krystian Madra
+Michał Malinowski
 Hubert Słomion
 Konrad Sobaniec
-Michał Malinowski
 Piotr Umriejan
+Joanna Stokfisz
+Adrian Szlegel
+Daniel Szurgot
+Karol Ziółkiewicz
