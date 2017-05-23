@@ -1,4 +1,7 @@
-D NIF LI1 1CF (wtorek) - lista studentów:
+D NIF LI1 1CF (wtorek)
+
+Lista studentów:
+
 Hubert Słomion
 Konrad Sobaniec
 Michał Malinowski
