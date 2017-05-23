@@ -1,4 +1,16 @@
-D NIF LI1 1CF (wtorek) - lista studentów:
+D NIF LI1 1CF (wtorek)
+
+Lista studentów:
+
+Krzysztof Czerwiński
+Mateusz Górzyński
+Kacper Kruczek
+Jakub Kwiatkowski
+Adrian Lewandowski
+Krystian Madra
+Michał Malinowski
 Hubert Słomion
 Konrad Sobaniec
 Joanna Stokfisz
+Adrian Szlegel
+Daniel Szurgot
