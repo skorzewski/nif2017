@@ -4,14 +4,13 @@ Lista studentów:
 
 Krzysztof Czerwiński
 Mateusz Górzyński
+Kacper Kruczek
 Jakub Kwiatkowski
 Adrian Lewandowski
 Krystian Madra
 Michał Malinowski
 Hubert Słomion
 Konrad Sobaniec
-Kacper Kruczek
-Adrian Lewandowski
-Michał Malinowski
+Joanna Stokfisz
 Adrian Szlegel
 Daniel Szurgot
