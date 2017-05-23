@@ -4,6 +4,7 @@ Lista studentów:
 
 Krzysztof Czerwiński
 Mateusz Górzyński
+Adrian Lewandowski
 Krystian Madra
 Michał Malinowski
 Hubert Słomion
