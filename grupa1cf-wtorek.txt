@@ -7,4 +7,5 @@ Krystian Madra
 Michał Malinowski
 Hubert Słomion
 Konrad Sobaniec
+Adrian Szlegel
 Daniel Szurgot
