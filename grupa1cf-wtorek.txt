@@ -13,6 +13,7 @@ Krystian Madra
 Michał Malinowski
 Hubert Słomion
 Konrad Sobaniec
+Jakub Stefko
 Piotr Umriejan
 Joanna Stokfisz
 Adrian Szlegel
