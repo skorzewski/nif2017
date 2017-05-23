@@ -3,6 +3,7 @@ D NIF LI1 1CF (wtorek)
 Lista studentów:
 
 Krzysztof Czerwiński
+Rafał Dąbkowski
 Mateusz Górzyński
 Kacper Kruczek
 Jakub Kwiatkowski
