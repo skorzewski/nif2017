@@ -2,6 +2,7 @@ D NIF LI1 1CF (wtorek)
 
 Lista studentów:
 
+Krzysztof Czerwiński
 Krystian Madra
 Michał Malinowski
 Hubert Słomion
