@@ -5,6 +5,7 @@ Lista studentów:
 Krzysztof Czerwiński
 Rafał Dąbkowski
 Mateusz Górzyński
+Filip Kowalski
 Kacper Kruczek
 Jakub Kwiatkowski
 Adrian Lewandowski
