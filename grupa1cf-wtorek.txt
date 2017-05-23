@@ -2,7 +2,23 @@ D NIF LI1 1CF (wtorek)
 
 Lista studentów:
 
-Hubert Słomion
-Konrad Sobaniec
+Krzysztof Czerwiński
+Rafał Dąbkowski
+Mateusz Górzyński
+Filip Kowalski
+Kacper Kruczek
+Jakub Kwiatkowski
+Adrian Lewandowski
+Krystian Madra
 Michał Malinowski
 Wojciech Przybyła
+Hubert Słomion
+Konrad Sobaniec
+Jakub Stefko
+Joanna Stokfisz
+Adrian Szlegel
+Diana Szpylma
+Daniel Szurgot
+Wojciech Ufnowski
+Piotr Umriejan
+Karol Ziółkiewicz
