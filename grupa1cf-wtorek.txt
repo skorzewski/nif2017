@@ -11,6 +11,7 @@ Jakub Kwiatkowski
 Adrian Lewandowski
 Krystian Madra
 Michał Malinowski
+Wojciech Przybyła
 Hubert Słomion
 Konrad Sobaniec
 Jakub Stefko
