@@ -2,6 +2,7 @@ D NIF LI1 1CF (wtorek)
 
 Lista studentów:
 
+Dominik Cierniak
 Krzysztof Czerwiński
 Rafał Dąbkowski
 Mateusz Górzyński
@@ -14,13 +15,13 @@ Michał Malinowski
 Wojciech Przybyła
 Hubert Słomion
 Konrad Sobaniec
+Hubert Staszek
 Jakub Stefko
 Joanna Stokfisz
 Adrian Szlegel
 Diana Szpylma
 Daniel Szurgot
+Patryk Szymkowiak
 Wojciech Ufnowski
 Piotr Umriejan
 Karol Ziółkiewicz
-Dominik Cierniak
-Hubert Staszek
